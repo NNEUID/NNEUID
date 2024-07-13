@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NNEUID
 - 👀 I’m interested in Heahltcare Data, Design and Development
-- 🌱 I’m currently learning Nuxt 3 and TypeScript
 - 💞️ I’m looking to collaborate on projects that tackle issues of underrepresentation
 - 📫 How to reach me (nneuid.com)
 
